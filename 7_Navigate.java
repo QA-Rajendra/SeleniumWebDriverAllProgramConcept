@@ -14,3 +14,13 @@ public class Navigate{
         driver.navigate().forward();  // Go forward to Wikipedia again
     }
 }
+// Create a new ChromeDriver instance - Launch the browser.
+
+// Navigate to Google - Open Google homepage.
+
+// Navigate to Wikipedia - Go to Wikipedia.
+
+// Go back to Google - Go back to the previous page (Google).
+
+// Go forward to Wikipedia again - Go forward to the Wikipedia page after using the back command.
+
