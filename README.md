@@ -14,6 +14,7 @@ driver.get("https://www.google.com");
 
 ---
 
+
 ### 🔹 2. `getCurrentUrl()`  
 📘 **Description:** Returns the current URL of the page  
 ✅ **Example:**
